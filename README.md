@@ -4,15 +4,17 @@
 </div>
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="45" width="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="45" width="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
- <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim" alt="neovim" height="45" />
+ <img src="https://img.shields.io/badge/-dotnet-512BD4?logo=.NET&logoColor=D3D3D3&style=for-the-badge" alt="dot net"/>
+ <img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=D3D3D3&style=for-the-badge" alt="c sharp"/>
+ <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=D3D3D3&style=for-the-badge" alt="python"/>
+ <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=D3D3D3&style=for-the-badge" alt="sqlite"/>
+ <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=D3D3D3&style=for-the-badge" alt="neovim" />
+ <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=D3D3D3&style=for-the-badge" alt="git"/>
+ <img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=D3D3D3&style=for-the-badge" alt="reddit api"/>
+ <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=bash&logoColor=D3D3D3&style=for-the-badge" alt="GNU bash"/>
+ <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=D3D3D3&style=for-the-badge" alt="JavaScript"/>
+ <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=D3D3D3&style=for-the-badge" alt="html"/>
+ <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=D3D3D3&style=for-the-badge" alt="css"/>
 </div>
 
 <!--
