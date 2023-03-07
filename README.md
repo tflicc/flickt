@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/taylor-flickinger/" />
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=d3d3d3&style=for-the-badge" alt="linked in"/>
   </a>
-  <a>
+  <a href="https://instagram.com/t_flicc?igshid=YmMyMTA2M2Y=">
     <img src="https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=d3d3d3&style=for-the-badge" alt="instagram"/>
   </a>
 </div>
