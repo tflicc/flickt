@@ -15,8 +15,8 @@
 <div id="aboutMe">
   <h1>About Me 🦆</h1>
   <p><em>The birds work for the bourgeoisie</em></p>
-  <h2>I make things</h2>
-  <p>I'm Taylor  ♠️   An asexual writer, analog photographer, and ✨self-taught✨ back-end programmer. I like having cool ideas and making them work in their medium, on film or in memory.</p>
+  <h3>I make things</h3>
+  <p>I'm Taylor  ♠️   An asexual writer, analog photographer, and ✨self-taught✨ back-end programmer. I like having cool ideas and making them work in their medium, whether it's on film or in memory.</p>
 </div>
 
 <div id="stack" align="left">
@@ -35,10 +35,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="Raspberry Pi" width="45" height="45" />&nbsp;
 </div>
 
-<h1>Projects 📽️</h1>
+<h1>My Projects 📽️</h1>
 
-- Snoop 🔎  A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
-- NameInsured ⚖️   A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
+- Snoop 🔎 &nbsp; A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
+- NameInsured ⚖️  &nbsp;  A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
 
 
 
