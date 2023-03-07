@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=D3D3D3&style=for-the-badge" alt="neovim" />
  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=D3D3D3&style=for-the-badge" alt="git"/>
  <img src="https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=D3D3D3&style=for-the-badge" alt="reddit api"/>
- <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=bash&logoColor=D3D3D3&style=for-the-badge" alt="GNU bash"/>
+ <img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=gnu-bash&logoColor=D3D3D3&style=for-the-badge" alt="GNU bash"/>
  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=D3D3D3&style=for-the-badge" alt="JavaScript"/>
  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=D3D3D3&style=for-the-badge" alt="html"/>
  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=D3D3D3&style=for-the-badge" alt="css"/>
