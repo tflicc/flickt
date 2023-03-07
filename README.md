@@ -49,11 +49,8 @@
 - 🔐 &nbsp; Validating requests with OAuth
 - 🧦 &nbsp; Sockets
 
-<div align="center">
-  <h1>Reach Me</h1>
-</div>
 <div id="footerSocials" align="center" >
-  <img src="https://media.giphy.com/media/116wwYf3ajIvrG/giphy.gif" width="480" height="258" />
+  <h1>Reach Me</h1>
   <a href="mailto: tayflick@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white&style=for-the-badge" title="Gmail" alt="Gmail" />
   </a>
