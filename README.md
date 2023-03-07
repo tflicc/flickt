@@ -1,5 +1,7 @@
 <div align="center">
-<h4>Hello there 👾</h4>
+![Orcas off the coast of Seattle break quiet ocean.](https://github.com/flickt/flickt/blob/main/image.jpg?raw=true)
+
+<h3>Hello there 👾</h3>
 <h2>I'm the funniest asexual <a href="https://instagram.com/t_flicc?igshid=YmMyMTA2M2Y=">analog photographer</a> 📷, <a href="http://www.cutbankonline.org/weekly-flash-prose-and-prose-poetry/2019/11/weekly-flash-prose-and-prose-poetry-red-like-gold-by-taylor-flickinger">short-story writer</a> 📝, ✨self-taught✨ back-end developer you'll ever meet</h2>
 </div>
 
@@ -16,6 +18,13 @@
  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=D3D3D3&style=for-the-badge" alt="html"/>
  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=D3D3D3&style=for-the-badge" alt="css"/>
 </div>
+
+<h1>📽️ Projects</h1>
+
+
+
+
+
 
 <!--
 **flickt/flickt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
