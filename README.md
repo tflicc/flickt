@@ -60,7 +60,7 @@
 
 <div id="footer" align="center">
   <h1>Reach Me</h1>
-  <a href="mailto: tayflick@gmail.com?subject = Your Github profile">
+  <a href="mailto: tayflick@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white&style=for-the-badge" title="Gmail" alt="Gmail" />
   </a>
 </div>
