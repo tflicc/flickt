@@ -6,12 +6,14 @@
   <a>
     <img src="https://img.shields.io/badge/Instagram-c13584?logo-instagram&logoColor=d3d3d3&style=for-the-badge" alt="instagram"/>
   </a>
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="480" height= "260" /> 
 </div>
 
-<h1>In my stack</h1>
-
 <div align="left">
+  <h1>In my stack</h1>
   <img src="https://img.shields.io/badge/-dotnet-512BD4?logo=.NET&logoColor=D3D3D3&style=for-the-badge" alt="dot net"/>
   <img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=D3D3D3&style=for-the-badge" alt="c sharp"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=D3D3D3&style=for-the-badge" alt="python"/>
