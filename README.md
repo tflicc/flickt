@@ -37,8 +37,8 @@
 
 <h1>My Projects 📽️</h1>
 
-- Snoop 🔎 &nbsp; A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
-- NameInsured ⚖️  &nbsp;  A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
+- Snoop 🔎 &nbsp; &nbsp;  A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
+- NameInsured ⚖️  &nbsp; &nbsp;  A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
 
 
 
