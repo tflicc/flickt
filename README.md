@@ -13,11 +13,10 @@
 </div>
 
 <div id="aboutMe">
-  <h1>About Me</h1>
-  <p>I'm Taylor ♠️  The funniest asexual you'll ever meet</p>
-
-  <h2>If you write it, I will come</h2>
-  <p>I am a <a herf="http://www.cutbankonline.org/weekly-flash-prose-and-prose-poetry/2019/11/weekly-flash-prose-and-prose-poetry-red-like-gold-by-taylor-flickinger">published</a> writer and ✨self taught✨ programmer.</p>
+  <h1>About Me 🦆</h1>
+  <p><em>The birds work for the bourgeoisie</em></p>
+  <h2>I make things</h2>
+  <p>I'm Taylor  ♠️   An asexual writer, analog photographer, and ✨self-taught✨ back-end programmer. I like having cool ideas and making them work in their medium, on film or in memory.</p>
 </div>
 
 <div id="stack" align="left">
