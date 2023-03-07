@@ -1,10 +1,8 @@
-### Hello there.
-
 <div align="center">
-![159203010017-2](https://user-images.githubusercontent.com/105022306/223297017-9e85d588-f1ff-429a-98b9-d6ad4ae6b2d8.jpg)
+### Hello there.
+<h2>I'm the funniest asexual <a href="">analog photographer</a>, <a href="http://www.cutbankonline.org/weekly-flash-prose-and-prose-poetry/2019/11/weekly-flash-prose-and-prose-poetry-red-like-gold-by-taylor-flickinger">short-story writer</a>, ✨self-taught✨ back-end developer you'll ever meet</h2>
 </div>
 
-<h2>I'm the funniest asexual <a href="">analog photographer</a>, <a href="http://www.cutbankonline.org/weekly-flash-prose-and-prose-poetry/2019/11/weekly-flash-prose-and-prose-poetry-red-like-gold-by-taylor-flickinger">short-story writer</a>, ✨self-taught✨ back-end developer you'll ever meet</h2>
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>
@@ -14,6 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="45" width="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
+ <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim"
 </div>
 
 <!--
