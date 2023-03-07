@@ -20,7 +20,7 @@
 </div>
 
 <div id="stack" align="left">
-  <h1>In my stack &nbsp; 🥞</h1>
+  <h2>In my stack &nbsp; 🥞</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt="dot-net" width="45" height="45" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="45" height="45" />&nbsp;
@@ -36,23 +36,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="Raspberry Pi" width="45" height="45" />&nbsp;
 </div>
 
-<h1>My Projects &nbsp; 📽️</h1>
+<h2>My Projects &nbsp; 📽️</h2>
 
 - 🔎 &nbsp; Snoop: A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
 - ⚖️  &nbsp; NameInsured: A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
 
-<h1>What I'm Learning &nbsp; 🍎</h1>
+<h2>What I'm Learning &nbsp; 🍎</h2>
 
 - 🖇️ &nbsp; LINQ
 - 🕸️ &nbsp; ASP.NET
 - 💽 &nbsp; EF Core
 
-<h1>I'm looking to collaborate on &nbsp; 👫</h1>
+<h2>I'm looking to collaborate on &nbsp; 👫</h2>
 
 - 🛏️ &nbsp; REST APIs and other web services
 - 🥶 &nbsp; Anything cool
 
-<h1>Ask me about &nbsp; 🗣️</h1>
+<h2>Ask me about &nbsp; 🗣️</h2>
 
 - 📍 &nbsp; Reddit's API
 - 🔐 &nbsp; Validating requests with OAuth
