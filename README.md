@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h3>Hello there 👾</h3>
   <a href="https://www.linkedin.com/in/taylor-flickinger/" />
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=d3d3d3&style=for-the-badge" alt="linked in" />
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge" alt="linked in" />
   </a>
   <a href="https://instagram.com/t_flicc?igshid=YmMyMTA2M2Y=">
-    <img src="https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=d3d3d3&style=for-the-badge" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-c13584?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram" />
   </a>
 </div>
 
@@ -61,6 +61,6 @@
 <div id="footer" align="center">
   <h1>Reach Me</h1>
   <a href="mailto: tayflick@gmail.com?subject = Your Github profile">
-    <img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=fbbc05&style=for-the-badge" title="Gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white&style=for-the-badge" title="Gmail" alt="Gmail" />
   </a>
 </div>
