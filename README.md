@@ -1,7 +1,15 @@
 <div id="header" align="center">
   <h3>Hello there 👾</h3>
+  <a href="https://www.linkedin.com/in/taylor-flickinger/" />
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=d3d3d3&style=for-the-badge" alt="linked in"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Instagram-c13584?logo-instagram&logoColor=d3d3d3&style=for-the-badge" alt="instagram"/>
+  </a>
   <img src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" width="480" height= "260" /> 
 </div>
+
+<h1>In my stack</h1>
 
 <div align="left">
   <img src="https://img.shields.io/badge/-dotnet-512BD4?logo=.NET&logoColor=D3D3D3&style=for-the-badge" alt="dot net"/>
