@@ -51,6 +51,7 @@
 
 <div id="footer" align="center">
   <h1>Reach Me</h1>
+  <img src="https://media.giphy.com/media/116wwYf3ajIvrG/giphy.gif" width="480" height="258" />
   <a href="mailto: tayflick@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?logo=gmail&logoColor=white&style=for-the-badge" title="Gmail" alt="Gmail" />
   </a>
