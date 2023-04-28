@@ -29,25 +29,22 @@
 
 <h2>My projects &nbsp; 📽️</h2>
 
-- 🔎 &nbsp; Snoop: A lightweight browser for Reddit. Snoop aims to extend Reddit's browsing capabilities by adding features like offline browsing, filtering posts by media type, and more. Originally written in Python/Kivy, the project is moving to either ASP.NET or (more probably) Xamarin to get more juice from Reddit's API. 
-- ⚖️  &nbsp; NameInsured: A Microsoft Word Document writer that autofills Confidential Mediation Statements with the names of the involved parties, allowing CMS writers to spend more time reading the case and less time writing boilerplate.
+- 🔎 &nbsp; Snoop: A Reddit scraper intended to help document the internet and fight censorship. The native API implementation means you don't have to worry about rate-limited API wrappers! 
+- ⚖️  &nbsp; NameInsured: An ASP.NET Core MVC website built to help legal clerks improve their productivity by reducing the amount of boilerplate they need to write.
 
 <h2>What I'm learning &nbsp; 🍎</h2>
 
-- 🖇️ &nbsp; LINQ
-- 🕸️ &nbsp; ASP.NET
+- 🕸️ &nbsp; ASP.NET Core
 - 💽 &nbsp; EF Core
 
 <h2>I'm looking to collaborate on &nbsp; 👫</h2>
 
-- 🛏️ &nbsp; REST APIs and other web services
-- 🥶 &nbsp; Anything cool
+- 🛏️ &nbsp; REST APIs and web services
+- 📝 &nbsp; Documenting the internet
 
 <h2>Ask me about &nbsp; 🗣️</h2>
 
 - 📍 &nbsp; Reddit's API
-- 🔐 &nbsp; Validating requests with OAuth
-- 🧦 &nbsp; Sockets
 
 <div id="footerSocials" align="center" >
   <h1>Reach Me</h1>
