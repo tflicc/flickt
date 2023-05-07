@@ -30,6 +30,7 @@
 <h2>My projects &nbsp; 📽️</h2>
 
 - 🔎 &nbsp; Snoop: A Reddit scraper intended to help document the internet and fight censorship. The native API implementation means you don't have to worry about rate-limited API wrappers! 
+- 🔐 &nbsp; Serveddit: A simple fastAPI HTTP API that keeps Reddit OAuth `refresh_tokens` and sends valid `access_tokens` to clients who authorized access to Reddit's APIs
 - ⚖️  &nbsp; NameInsured: An ASP.NET Core MVC website built to help legal clerks improve their productivity by reducing the amount of boilerplate they need to write.
 
 <h2>What I'm learning &nbsp; 🍎</h2>
